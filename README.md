@@ -44,4 +44,8 @@ graph TD
 2. Insights and Conclusions
 3. Sleep
 
+## References
+1. https://data.mendeley.com/datasets/88y3nffs82/5 - Pandemic on Life of Higher Education Students Global Survey.xlsx
+2. https://zenodo.org/records/7472241 - teachers_burnout_pandemia_brazil_translate.xlsx
+
 

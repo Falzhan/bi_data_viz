@@ -1,0 +1,167 @@
+Column_Name,Data_Type,Non_Null_Count,Null_Count,Unique_Values,Sample_Value_1,Sample_Value_2
+Country_Study,object,30776,436,77,Afghanistan,Afghanistan
+Is_Citizen,object,30732,480,2,Yes,No
+Student_Status,object,30686,526,2,Full-time,Full-time
+Study_Level,object,30472,740,3,Bachelor’s degree,Doctoral degree
+Field_of_Study,object,30096,1116,4,Natural,Techincal
+Age,float64,23691,7521,51,62.0,28.0
+Gender,object,30779,433,4,Gender diverse,Gender diverse
+Had_Onsite_Classes,object,28790,2422,3,No,No
+Q10a,object,19532,11680,5,Very dissatisfied,Natural
+Q10b,object,15821,15391,5,Very dissatisfied,Natural
+Q10c,object,13951,17261,5,Very dissatisfied,Natural
+Q10d,object,18406,12806,5,Very dissatisfied,Natural
+Q10e,object,18776,12436,5,Very dissatisfied,Natural
+Q11,object,21874,9338,5,Written communication (forums,Online with an audio recording (not in real-time)
+Q12a,object,15846,15366,5,Very dissatisfied,Natural
+Q12b,object,12027,19185,5,Very dissatisfied,Natural
+Q12c,object,10432,20780,5,Very dissatisfied,Natural
+Q12d,object,14368,16844,5,Very dissatisfied,Natural
+Q12e,object,14541,16671,5,Very dissatisfied,Natural
+Q13,object,18666,12546,5,Written communication (forums,Online with an audio recording (not in real-time)
+Q14a,object,20217,10995,2,No,Yes
+Q14b,object,20217,10995,2,No,No
+Q14c,object,20217,10995,2,No,No
+Q14d,object,20217,10995,2,No,No
+Q14e,object,20217,10995,2,Yes,No
+Q15,object,19931,11281,5,Via video-call,Via texting on social networks (Facebook messenger
+Q16a,object,17882,13330,5,Strongly disagree,Natural
+Q16b,object,17011,14201,5,Disagree,Natural
+Q16c,object,17632,13580,5,Strongly disagree,Agree
+Q16d,object,17714,13498,5,Strongly disagree,Agree
+Q16e,object,17724,13488,5,Natural,Agree
+Q17,object,19219,11993,5,Significantly larger,Larger
+Q18a,object,17224,13988,5,Natural,Dissatisfied
+Q18b,object,15671,15541,5,Very dissatisfied,Dissatisfied
+Q18c,object,13682,17530,5,Very dissatisfied,Dissatisfied
+Q19a,object,17676,13536,5,Very dissatisfied,Dissatisfied
+Q19b,object,15212,16000,5,Natural,Dissatisfied
+Q19c,object,13568,17644,5,Natural,Very dissatisfied
+Q19d,object,12067,19145,5,Natural,Dissatisfied
+Q19e,object,9597,21615,5,Natural,Dissatisfied
+Q19f,object,12485,18727,5,Natural,Natural
+Q19g,object,15282,15930,5,Natural,Satisfied
+Q19h,object,12958,18254,5,Very dissatisfied,Very satisfied
+Q19i,object,11986,19226,5,Dissatisfied,Dissatisfied
+Q20a,object,17148,14064,5,Strongly agree,Natural
+Q20b,object,16912,14300,5,Strongly disagree,Agree
+Q20c,object,16898,14314,5,Strongly agree,Agree
+Q20d,object,17032,14180,5,Strongly disagree,Agree
+Q20e,object,16796,14416,5,Strongly disagree,Agree
+Q20f,object,16148,15064,5,Strongly disagree,Agree
+Q21a,object,17564,13648,5,Often,Sometimes
+Q21b,object,17528,13684,5,Often,Often
+Q21c,object,17533,13679,5,Often,Sometimes
+Q21d,object,17511,13701,5,Often,Sometimes
+Q21e,object,17545,13667,5,Often,Rarely
+Q21f,object,17548,13664,5,Often,Rarely
+Q21g,object,17525,13687,5,Never,Rarely
+Q21h,object,17525,13687,5,Often,Rarely
+Q21i,object,17523,13689,5,Rarely,Sometimes
+Q21j,object,17463,13749,5,Never,Often
+Q22a,object,17511,13701,5,Natural,Agree
+Q22b,object,17426,13786,5,Natural,Agree
+Q22c,object,17460,13752,5,Strongly disagree,Agree
+Q22d,object,17457,13755,5,Strongly disagree,Natural
+Q22e,object,17453,13759,5,Natural,Agree
+Q22f,object,17445,13767,5,Agree,Disagree
+Q22g,object,17423,13789,5,Disagree,Agree
+Q23a,object,21615,9597,6,Once a day,Not at all
+Q23b,object,21556,9656,6,Not at all,Not at all
+Q23c,object,21558,9654,6,Several times a day,Not at all
+Q23d,object,21242,9970,6,Several times a day,Not at all
+Q23e,object,21515,9697,6,Two or three times a month,Not at all
+Q23f,object,21537,9675,6,Two or three times a month,Two or three times a month
+Q23g,object,21509,9703,6,Two or three times a month,Two or three times a month
+Q23h,object,21438,9774,6,Not at all,Once a week
+Q23i,object,21435,9777,6,Not at all,Several times a week
+Q23j,object,21456,9756,6,Once a day,Not at all
+Q24a,object,21217,9995,11,Close family member,More distant family member
+Q24b,object,20662,10550,11,Close family member,Close family member
+Q24c,object,21000,10212,11,Colleague from my course,Close family member
+Q24d,object,20859,10353,11,Close family member,Close family member
+Q24e,object,20864,10348,11,Close family member,More distant family member
+Q24f,object,20669,10543,11,Close family member,Close family member
+Q24g,object,20625,10587,11,Close family member,Close family member
+Q24h,object,20688,10524,11,Close family member,Close family member
+Q25a,object,21052,10160,5,Never,Never
+Q25b,object,21008,10204,5,Never,Never
+Q25c,object,20955,10257,5,Never,Sometimes
+Q25d,object,20984,10228,5,Often,Often
+Q25e,object,21010,10202,5,Often,Rarely
+Q25f,object,20983,10229,5,Always,Sometimes
+Q25g,object,20976,10236,5,Sometimes,Sometimes
+Q25h,object,20922,10290,5,Never,Often
+Q25i,object,20989,10223,5,Always,Sometimes
+Q25j,object,21018,10194,5,Always,Sometimes
+Q26a,object,20724,10488,5,Some of the time,A little of the time
+Q26b,object,20670,10542,5,All of the time,A little of the time
+Q26c,object,20660,10552,5,All of the time,Some of the time
+Q26d,object,20662,10550,5,All of the time,A little of the time
+Q26e,object,20653,10559,5,All of the time,A little of the time
+Q26f,object,20671,10541,5,All of the time,A little of the time
+Q26g,object,20631,10581,5,All of the time,A little of the time
+Q26h,object,20619,10593,5,All of the time,A little of the time
+Q26i,object,20643,10569,5,All of the time,Some of the time
+Q26j,object,20580,10632,5,Most of the time,A little of the time
+Q27,object,20150,11062,5,With difficulty,Very easily
+Q28,object,19340,11872,2,No,Yes
+Q29,object,10800,20412,2,Yes,Yes
+Q30,object,17641,13571,3,Returning to full-time studies.,Returning to full-time studies.
+Q31,object,20133,11079,2,Yes,Yes
+Q32,object,7454,23758,4,fee payment has remained the same at my institution.,fee payment has remained the same at my institution.
+Q33,object,20167,11045,2,No,Yes
+Q34,object,5441,25771,4,the amount of my scholarship has remained the same.,payment of the scholarship has been postponed.
+Q35a,object,19006,12206,5,Natural,Very dissatisfied
+Q35b,object,19071,12141,5,Very dissatisfied,Very dissatisfied
+Q35c,object,16957,14255,5,Natural,Very dissatisfied
+Q35d,object,17948,13264,5,Natural,Very dissatisfied
+Q36a,object,16837,14375,5,Important,Not important
+Q36b,object,16083,15129,5,Very importnant,Moderately important
+Q36c,object,16086,15126,5,Very importnant,Moderately important
+Q36d,object,15257,15955,5,Very importnant,Slightly important
+Q36e,object,16724,14488,5,Very importnant,Moderately important
+Q36f,object,16232,14980,5,Very importnant,Moderately important
+Q36g,object,15711,15501,5,Very importnant,Moderately important
+Q36h,object,15397,15815,5,Very importnant,Important
+Q36i,object,15862,15350,5,Very importnant,Not important
+Q36j,object,15568,15644,5,Very importnant,Not important
+Q37,object,19078,12134,2,No,Yes
+Q38a_1,object,19236,11976,5,Often,Never
+Q38b_1,object,19205,12007,5,Often,Never
+Q38c_1,object,19162,12050,5,Rarely,Rarely
+Q38d_1,object,19145,12067,5,Rarely,Often
+Q38e_1,object,19136,12076,5,Always,Never
+Q38f_1,object,19082,12130,5,Often,Sometimes
+Q38g_1,object,19104,12108,5,Often,Sometimes
+Q38h_1,object,19068,12144,5,Rarely,Sometimes
+Q38i_1,object,18477,12735,5,Always,Sometimes
+Q38j_1,object,18922,12290,5,Rarely,Sometimes
+Q38k_1,object,19066,12146,5,Sometimes,Rarely
+Q38l_1,object,19079,12133,5,Never,Rarely
+Q38m_1,object,19020,12192,5,Often,Rarely
+Q38n_1,object,19021,12191,5,Sometimes,Never
+Q38o_1,object,18996,12216,5,Always,Never
+Q38p_1,object,19035,12177,5,Always,Never
+Q38a_2,object,19053,12159,5,Often,Never
+Q38b_2,object,19067,12145,5,Rarely,Rarely
+Q38c_2,object,19011,12201,5,Always,Rarely
+Q38d_2,object,19030,12182,5,Always,Rarely
+Q38e_2,object,19020,12192,5,Never,Never
+Q38f_2,object,18970,12242,5,Always,Sometimes
+Q38g_2,object,18994,12218,5,Often,Sometimes
+Q38h_2,object,18948,12264,5,Always,Sometimes
+Q38i_2,object,18363,12849,5,Always,Sometimes
+Q38j_2,object,18832,12380,5,Always,Sometimes
+Q38k_2,object,18953,12259,5,Always,Rarely
+Q38l_2,object,18978,12234,5,Always,Often
+Q38m_2,object,18918,12294,5,Always,Rarely
+Q38n_2,object,18930,12282,5,Always,Never
+Q38o_2,object,18905,12307,5,Sometimes,Never
+Q38p_2,object,18947,12265,5,Rarely,Never
+SOURCE,object,31212,0,7,pt,en
+User_Type,object,31212,0,1,Student,Student
+Dataset_Source,object,31212,0,1,Global_Student_Survey_COVID19,Global_Student_Survey_COVID19
+Age_Group,object,31212,0,6,55+,Unknown
+Age_Numeric,float64,23691,7521,51,62.0,28.0
+Gender_Standardized,object,31212,0,5,Gender Diverse,Gender Diverse

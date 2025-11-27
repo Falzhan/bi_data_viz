@@ -35,7 +35,9 @@ graph TD
     D --> J[data_loader.py]
 ```
 
-## Currently Done: Data Preparation
+## Currently Done: 
+1. Initialize
+2. Data Preparation
 
 ## Next Steps (Todo)
 1. Create the Visualizations

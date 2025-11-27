@@ -47,5 +47,5 @@ graph TD
 ## References
 1. https://data.mendeley.com/datasets/88y3nffs82/5 - Pandemic on Life of Higher Education Students Global Survey.xlsx
 2. https://zenodo.org/records/7472241 - teachers_burnout_pandemia_brazil_translate.xlsx
-
+3. The code is assisted with Claude Sonnet 4.5, Gemini 3 Pro for Free Students, xAI Grok 4.1 fast:free
 

@@ -5,7 +5,7 @@ Minimal project structure for business intelligence and data visualization using
 - [`Pandemic on Life of Higher Education Students Global Survey.xlsx`](data/student_survey.xlsx): Global student survey on pandemic effects (questions Q1-Q38, countries like Afghanistan, Argentina).
 - [`teachers_burnout_pandemia_brazil_translate.xlsx`](data/teacher_burnout.xlsx): Brazilian teachers' burnout data (demographics, digital competence [CD], working conditions [CT], quality of life [QV], Maslach Burnout Inventory [MBI]).
 
-Goal: Jupyter notebook for EDA, cleaning, merging (if relevant), visualizations 
+Goal: Jupyter notebook for EDA, cleaning, visualizations 
 
 ## File Structure
 ```
@@ -35,16 +35,17 @@ graph TD
     D --> J[data_loader.py]
 ```
 
+## Currently Done: 
+1. Initialize
+2. Data Preparation
+
 ## Next Steps (Todo)
-1. Copy XLSX to `data/` (rename for clarity).
-2. Create `requirements.txt`.
-3. Implement `src/data_loader.py`.
-4. Skeleton `notebooks/data_viz.ipynb`: Import data_loader, load sheets, EDA (df.info(), describe()), viz (histograms for ages/scores, bar charts by country/gender, correlation heatmaps for MBI/CD/CT/QV).
-5. Run `pip install -r requirements.txt`, `jupyter notebook`.
+1. Create the Visualizations
+2. Insights and Conclusions
+3. Sleep
 
-## Visualization Ideas
-- Student survey: Likert distributions (Q1-Q38), impacts by country/gender.
-- Teacher burnout: Boxplots MBI vs age/sex, scatter CD vs CT, heatmaps correlations.
-- Compare: Global student stress vs Brazil teacher burnout.
+## References
+1. https://data.mendeley.com/datasets/88y3nffs82/5 - Pandemic on Life of Higher Education Students Global Survey.xlsx
+2. https://zenodo.org/records/7472241 - teachers_burnout_pandemia_brazil_translate.xlsx
+3. The code is assisted with Claude Sonnet 4.5, Gemini 3 Pro for Free Students, xAI Grok 4.1 fast:free
 
-Approve this structure? Changes?

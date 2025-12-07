@@ -1,91 +1,89 @@
-Column_Name,Data_Type,Non_Null_Count,Null_Count,Unique_Values,Sample_Value_1,Sample_Value_2
-Unnamed: 0,object,435,4,50,Age:,56
-Unnamed: 1,object,439,0,3,Sex:,1
-doi: 10.5281/zenodo.7472241   https://zenodo.org/record/7472241,object,439,0,5,Marital status:,2
-Unnamed: 3,object,439,0,52,I live with:,"My partner or wife/husband, Adult Son(s), Pet (dog, cat , etc.)"
-Unnamed: 4,object,439,0,9,Area of knowledge in which it operates:,1
-Unnamed: 5,object,439,0,9,Level of training (titration),6
-Unnamed: 6,object,439,0,6,Main level of education in which it operates:,5
-Unnamed: 7,object,439,0,6,Number of institutions or schools in which you act as a teacher:,2
-Unnamed: 8,object,439,0,4,The main institution(s) of activity are the network(s):,2
-Unnamed: 9,object,439,0,7,Official or contractual weekly workload:,5
-Unnamed: 10,object,439,0,7,Weekly workload effectively dedicated to work during pandemic,4
-Unnamed: 11,object,439,0,6,Time of acting as a teacher:,5
-Unnamed: 12,object,439,0,3,"Considering the devices and technological resources, indicate those to which you have (1) and do not have access (0): [Mobile]",1
-Unnamed: 13,object,439,0,3,"Considering the devices and technological resources, indicate those you have (1) and do not have access (0): [Desktop computer]",0
-Unnamed: 14,object,439,0,3,"Considerando os dispositivos e recursos tecnológicos, indique aqueles a que tem (1) e não tem acesso (0): [Computador portátil (notebook)]",1
-Unnamed: 15,object,439,0,3,"Considerando os dispositivos e recursos tecnológicos, indique aqueles a que tem (1) e não tem acesso (0): [Tablet]",0
-Unnamed: 16,object,439,0,5,Amount resource that has access,2
-Unnamed: 17,object,439,0,3,"Considering the devices and technological resources, indicate those to which you have (1) and do not have access (0): [Home internet connection]",1
-Unnamed: 18,object,439,0,3,"Considering the devices and technological resources, indicate those to which you have (1) and do not have access (0): [Internet connection by /on mobile]",1
-Unnamed: 19,object,439,0,4,Internet connection,2
-Unnamed: 20,object,439,0,6,"Considering your conditions of access to technologies, such as computer or notebook, you evaluate that these conditions are:",5
-Unnamed: 21,object,439,0,6,"Considering your internet access conditions (cable and/or wi-fi), you assess that these conditions are:",5
-Unnamed: 22,object,439,0,10,Conditions of access devices and internet,10
-Unnamed: 23,object,439,0,3,CD [Email account],2
-Unnamed: 24,object,439,0,4,CD [Instant communicators (e.g. whatsapp)],2
-Unnamed: 25,object,439,0,4,"CD [Web conferencing or synchronous communication platform with video and sound (e.g. meet, zoom or skype)]",2
-Unnamed: 26,object,439,0,4,"CD [Virtual learning environment (e.g. moodle, e-proinfo or google classroom)]",2
-Unnamed: 27,object,439,0,4,"CD [Social networks (e.g. facebook, instagram or linkedin)]",2
-Unnamed: 28,object,439,0,4,CD [Applications for editing digital text (e.g. word or libreoffice)],2
-Unnamed: 29,object,439,0,4,CD [Visual editing tools (e.g. power point or canva)],2
-Unnamed: 30,object,439,0,4,CD [Tools for recording videos (e.g. digital cameras)],2
-Unnamed: 31,object,439,0,4,"CD [Tools for video editing (e.g. movavi, moviemaker or camtasia)]",1
-Unnamed: 32,object,439,0,4,CD [Tools or resources for online activities (e.g. online forum or questionnaire))],2
-Unnamed: 33,object,439,0,4,"CD [Tools for interactive presentation (e.g. kahoot, socrative or lied)]",1
-Unnamed: 34,object,439,0,21, digital competence score (CD),20
-Unnamed: 35,object,439,0,12, of new resources learned,2
-Unnamed: 36,object,439,0,6,CT - I have support from people who live with me in my residence,5
-Unnamed: 37,object,439,0,6,CT - My co-workers assist me in the activities necessary for remote teaching,4
-Unnamed: 38,object,439,0,6,"CT - The institution or school offers support, guidance and support for the development of remote education activities",4
-Unnamed: 39,object,439,0,7,CT - The technical(s) of the institution or school offers support for carrying out activities in the pandemic,0
-Unnamed: 40,object,439,0,6,CT - Received technical training for the use of technological resources,2
-Unnamed: 41,object,439,0,6,CT - I received pedagogical training to work in remote education,2
-Unnamed: 42,object,439,0,6,"CT - Participated in courses, lives and/ or lectures in addition to those offered by the institution(s) in which I work",3
-Unnamed: 43,object,439,0,6,CT - I dedicate more hours for planning in remote education than in face-to-face teaching,3
-Unnamed: 44,object,439,0,6,"CT - The process of evaluating learning, correcting and returning activities is more time-consuming in remote education",3
-Unnamed: 45,object,439,0,6,CT - I have difficulty using technological resources in remote education,3
-Unnamed: 46,object,439,0,6,CT - In my institution lack technological resources to develop activities in remote education,3
-Unnamed: 47,object,438,1,6,CT - Sinto-me sozinho na atuação no ensino remoto,3
-Unnamed: 48,object,439,0,6,CT - I missed being and interacting with students in the classroom in face-to-face teaching,3
-Unnamed: 49,object,439,0,45, working conditions (CT),38
-Unnamed: 50,object,439,0,4,QV [Sleep quality],0
-Unnamed: 51,object,439,0,4,QV [Amount of sleep hours],0
-Unnamed: 52,object,439,0,4,QV [Feed quality],-1
-Unnamed: 53,object,439,0,4,QV [Body Weight],0
-Unnamed: 54,object,439,0,4,QV [Blood pressure],0
-Unnamed: 55,object,439,0,4,QV [Mood],0
-Unnamed: 56,object,439,0,4,QV [Anxiety],-1
-Unnamed: 57,object,439,0,4,QV [Gastrointestinal problems],0
-Unnamed: 58,object,439,0,4,QV  [Muscle pain],-1
-Unnamed: 59,object,439,0,18,Sum quality of life score  (QV),-3
-Unnamed: 60,object,439,0,6,"MBI -1In the pandemic, I feel emotionally exhausted with my work [-]",0
-Unnamed: 61,object,439,0,6,MBI -2I feel more tired at the end of the working day than before the pandemic [-],0
-Unnamed: 62,object,439,0,6,"MBI -3When I wake up in the morning and face another day of work, I feel more tired than before the pandemic [-]",4
-Unnamed: 63,object,439,0,6,MBI -4In the pandemic I have easier to understand how my students feel [-],4
-Unnamed: 64,object,439,0,6,"MBI -5Now in the pandemic, I feel that working all day with students is a great effort and tire me more [-]",3
-Unnamed: 65,object,437,2,6,MBI -6I think I deal with my students' problems more effectively in remote teaching [-],1
-Unnamed: 66,object,439,0,6,MBI -7I feel that my work in remote teaching is wearing me down [-],3
-Unnamed: 67,object,439,0,6,MBI -8I believe that with my work I am positively influencing the lives of my students [+],0
-Unnamed: 68,object,439,0,6,MBI -9I've become more insensitive to people since I started teaching in the pandemic ,3
-Unnamed: 69,object,438,1,6,MBI -10I feel that working in remote education is hardening me emotionally [-],0
-Unnamed: 70,object,439,0,6,MBI -11I feel very willing for my work in remote teaching [-],1
-Unnamed: 71,object,438,1,6,MBI -12I feel frustrated in my work in remote teaching [-],3
-Unnamed: 72,object,439,0,6,MBI -13I feel like I'm working too the pandemic [-],4
-Unnamed: 73,object,439,0,6,MBI -14I didn't worry about what happens to some students during the pandemic [-],2
-Unnamed: 74,object,439,0,6,MBI -15 I didn't worry about what happens to some students during the pandemic [-],3
-Unnamed: 75,object,439,0,6,MBI -16 I feel that I can easily create a pleasant atmosphere with my students in remote teaching [-],1
-Unnamed: 76,object,439,0,6,MBI -17I feel motivated after working with my students even remotely [-],2
-Unnamed: 77,object,437,2,6,MBI -18 I believe I get many valuable things in my job as a teacher in the pandemic [-],2
-Unnamed: 78,object,439,0,6,"MBI -19In the pandemic, I feel at the limit of my possibilities at work [-]",2
-Unnamed: 79,object,436,3,6,MBI -20I think students blame me more for some of their problems in remote teaching than in the face-to-face [-],0
-Unnamed: 80,object,439,0,62,MBI -final score,38
-Unnamed: 81,object,439,0,3,Have you had friends and/or close people who have contracted Covid 19?,1
-Unnamed: 82,object,439,0,3,Have you lost any friends or close people by Covid 19?,1
-User_Type,object,439,0,1,Teacher,Teacher
-Dataset_Source,object,439,0,1,Brazilian_Teacher_Burnout_COVID19,Brazilian_Teacher_Burnout_COVID19
-Age,object,0,439,0,,
-Age_Group,object,0,439,0,,
-Age_Numeric,object,0,439,0,,
-Gender,object,0,439,0,,
-Gender_Standardized,object,0,439,0,,
+﻿Column_Name,Question_Text,Value_Mapping,Data_Type,Non_Null_Count,Null_Count,Missing_Percent,Unique_Values,Sample_Value_1,Sample_Value_2
+Age,Age,,object,434,4,0.91,49,56,40
+Gender,Gender,,object,438,0,0.0,2,Female,Female
+Marital_Status,Marital_Status,,object,438,0,0.0,4,Married or married,Married or married
+Living_Situation,Living_Situation,,object,438,0,0.0,51,"My partner or wife/husband, Adult Son(s), Pet (dog, cat , etc.)","Partner or wife/husband, Son(s) who is a child(s)"
+Knowledge_Area,Knowledge_Area,,int64,438,0,0.0,8,1,2
+Education_Level,Education_Level,,object,438,0,0.0,8,Doctorate,Doctorate
+Teaching_Level,Teaching_Level,,object,438,0,0.0,5,; HE = Higher Education,; HE = Higher Education
+Num_Institutions,Num_Institutions,,object,438,0,0.0,5,2,1
+Institution_Network,Institution_Network,,object,438,0,0.0,3,Public,Public
+Official_Workload,Official_Workload,,object,438,0,0.0,6,From 41 to 50 h per week,From 31 to 40 hours a week
+Actual_Workload_Pandemic,Actual_Workload_Pandemic,,object,438,0,0.0,6,From 31 to 40 hours a week,From 21 to 30 h per week
+Years_Teaching,Years_Teaching,,object,438,0,0.0,5,Between 21 and 30 years,Between 1 and 5 years
+"Considering the devices and technological resources, indicate those to which you have (1) and do not have access (0): [Mobile]","Considering the devices and technological resources, indicate those to which you have (1) and do not have access (0): [Mobile]","{1: 'I have access', 0: 'I do not have access'}",object,438,0,0.0,2,I have access,I have access
+"Considering the devices and technological resources, indicate those you have (1) and do not have access (0): [Desktop computer]","Considering the devices and technological resources, indicate those you have (1) and do not have access (0): [Desktop computer]",,int64,438,0,0.0,2,0,0
+"Considerando os dispositivos e recursos tecnológicos, indique aqueles a que tem (1) e não tem acesso (0): [Computador portátil (notebook)]","Considerando os dispositivos e recursos tecnológicos, indique aqueles a que tem (1) e não tem acesso (0): [Computador portátil (notebook)]",,int64,438,0,0.0,2,1,1
+"Considerando os dispositivos e recursos tecnológicos, indique aqueles a que tem (1) e não tem acesso (0): [Tablet]","Considerando os dispositivos e recursos tecnológicos, indique aqueles a que tem (1) e não tem acesso (0): [Tablet]",,int64,438,0,0.0,2,0,0
+Amount resource that has access,Amount resource that has access,,int64,438,0,0.0,4,2,2
+"Considering the devices and technological resources, indicate those to which you have (1) and do not have access (0): [Home internet connection]","Considering the devices and technological resources, indicate those to which you have (1) and do not have access (0): [Home internet connection]","{1: 'I have access', 0: 'I do not have access'}",object,438,0,0.0,2,I have access,I have access
+"Considering the devices and technological resources, indicate those to which you have (1) and do not have access (0): [Internet connection by /on mobile]","Considering the devices and technological resources, indicate those to which you have (1) and do not have access (0): [Internet connection by /on mobile]",,int64,438,0,0.0,2,1,1
+Internet connection,Internet connection,,int64,438,0,0.0,3,2,2
+"Considering your conditions of access to technologies, such as computer or notebook, you evaluate that these conditions are:","Considering your conditions of access to technologies, such as computer or notebook, you evaluate that these conditions are:",,int64,438,0,0.0,5,5,4
+"Considering your internet access conditions (cable and/or wi-fi), you assess that these conditions are:","Considering your internet access conditions (cable and/or wi-fi), you assess that these conditions are:",,int64,438,0,0.0,5,5,5
+Conditions of access devices and internet,Conditions of access devices and internet,,int64,438,0,0.0,9,10,9
+CD [Email account],CD [Email account],"{0: 'Never used', 1: 'I had never used and started using in pandemic', 2: 'Already used'}",object,438,0,0.0,2,Already used,Already used
+CD [Instant communicators (e.g. whatsapp)],CD [Instant communicators (e.g. whatsapp)],,int64,438,0,0.0,3,2,2
+"CD [Web conferencing or synchronous communication platform with video and sound (e.g. meet, zoom or skype)]","CD [Web conferencing or synchronous communication platform with video and sound (e.g. meet, zoom or skype)]",,int64,438,0,0.0,3,2,1
+"CD [Virtual learning environment (e.g. moodle, e-proinfo or google classroom)]","CD [Virtual learning environment (e.g. moodle, e-proinfo or google classroom)]",,int64,438,0,0.0,3,2,2
+"CD [Social networks (e.g. facebook, instagram or linkedin)]","CD [Social networks (e.g. facebook, instagram or linkedin)]",,int64,438,0,0.0,3,2,2
+CD [Applications for editing digital text (e.g. word or libreoffice)],CD [Applications for editing digital text (e.g. word or libreoffice)],,int64,438,0,0.0,3,2,2
+CD [Visual editing tools (e.g. power point or canva)],CD [Visual editing tools (e.g. power point or canva)],,int64,438,0,0.0,3,2,2
+CD [Tools for recording videos (e.g. digital cameras)],CD [Tools for recording videos (e.g. digital cameras)],,int64,438,0,0.0,3,2,1
+"CD [Tools for video editing (e.g. movavi, moviemaker or camtasia)]","CD [Tools for video editing (e.g. movavi, moviemaker or camtasia)]",,int64,438,0,0.0,3,1,1
+CD [Tools or resources for online activities (e.g. online forum or questionnaire))],CD [Tools or resources for online activities (e.g. online forum or questionnaire))],,int64,438,0,0.0,3,2,1
+"CD [Tools for interactive presentation (e.g. kahoot, socrative or lied)]","CD [Tools for interactive presentation (e.g. kahoot, socrative or lied)]",,int64,438,0,0.0,3,1,0
+Digital_Competence_Score,Digital_Competence_Score,,int64,438,0,0.0,20,20,16
+New_Resources_Learned,New_Resources_Learned,,int64,438,0,0.0,11,2,4
+CT - I have support from people who live with me in my residence,CT - I have support from people who live with me in my residence,"{1: 'I totally disagree', 2: '- Partially disagree', 3: '- I do not agree, nor disagree', 4: '- Partially agree', 5: '- I totally agree'}",object,438,0,0.0,5,- I totally agree,- I totally agree
+CT - My co-workers assist me in the activities necessary for remote teaching,CT - My co-workers assist me in the activities necessary for remote teaching,,int64,438,0,0.0,5,4,5
+"CT - The institution or school offers support, guidance and support for the development of remote education activities","CT - The institution or school offers support, guidance and support for the development of remote education activities",,int64,438,0,0.0,5,4,4
+CT - The technical(s) of the institution or school offers support for carrying out activities in the pandemic,CT - The technical(s) of the institution or school offers support for carrying out activities in the pandemic,,int64,438,0,0.0,6,0,4
+CT - Received technical training for the use of technological resources,CT - Received technical training for the use of technological resources,,int64,438,0,0.0,5,2,4
+CT - I received pedagogical training to work in remote education,CT - I received pedagogical training to work in remote education,,int64,438,0,0.0,5,2,4
+"CT - Participated in courses, lives and/ or lectures in addition to those offered by the institution(s) in which I work","CT - Participated in courses, lives and/ or lectures in addition to those offered by the institution(s) in which I work",,int64,438,0,0.0,5,3,1
+CT - I dedicate more hours for planning in remote education than in face-to-face teaching,CT - I dedicate more hours for planning in remote education than in face-to-face teaching,,int64,438,0,0.0,5,3,1
+"CT - The process of evaluating learning, correcting and returning activities is more time-consuming in remote education","CT - The process of evaluating learning, correcting and returning activities is more time-consuming in remote education",,int64,438,0,0.0,5,3,2
+CT - I have difficulty using technological resources in remote education,CT - I have difficulty using technological resources in remote education,,int64,438,0,0.0,5,3,3
+CT - In my institution lack technological resources to develop activities in remote education,CT - In my institution lack technological resources to develop activities in remote education,,int64,438,0,0.0,5,3,1
+CT - Sinto-me sozinho na atuação no ensino remoto,CT - Sinto-me sozinho na atuação no ensino remoto,,float64,437,1,0.23,5,3.0,3.0
+CT - I missed being and interacting with students in the classroom in face-to-face teaching,CT - I missed being and interacting with students in the classroom in face-to-face teaching,,int64,438,0,0.0,5,3,1
+Working_Conditions_Score,Working_Conditions_Score,,int64,438,0,0.0,44,38,38
+QV [Sleep quality],QV [Sleep quality],"{1: 'Improved pandemic', 0: 'No changes'}",object,438,0,0.0,3,No changes,No changes
+QV [Amount of sleep hours],QV [Amount of sleep hours],,int64,438,0,0.0,3,0,0
+QV [Feed quality],QV [Feed quality],,int64,438,0,0.0,3,-1,0
+QV [Body Weight],QV [Body Weight],,int64,438,0,0.0,3,0,0
+QV [Blood pressure],QV [Blood pressure],,int64,438,0,0.0,3,0,0
+QV [Mood],QV [Mood],,int64,438,0,0.0,3,0,-1
+QV [Anxiety],QV [Anxiety],,int64,438,0,0.0,3,-1,-1
+QV [Gastrointestinal problems],QV [Gastrointestinal problems],,int64,438,0,0.0,3,0,0
+QV  [Muscle pain],QV  [Muscle pain],,int64,438,0,0.0,3,-1,0
+Quality_of_Life_Score,Quality_of_Life_Score,,int64,438,0,0.0,17,-3,-2
+"MBI -1In the pandemic, I feel emotionally exhausted with my work [-]","MBI -1In the pandemic, I feel emotionally exhausted with my work [-]","{1: 'Never', 2: '- Annually', 3: '- Monthly', 4: '- Weekly', 5: '- Daily'}",object,438,0,0.0,5,0,- Annually
+MBI -2I feel more tired at the end of the working day than before the pandemic [-],MBI -2I feel more tired at the end of the working day than before the pandemic [-],,int64,438,0,0.0,5,0,0
+"MBI -3When I wake up in the morning and face another day of work, I feel more tired than before the pandemic [-]","MBI -3When I wake up in the morning and face another day of work, I feel more tired than before the pandemic [-]",,int64,438,0,0.0,5,4,0
+MBI -4In the pandemic I have easier to understand how my students feel [-],MBI -4In the pandemic I have easier to understand how my students feel [-],,int64,438,0,0.0,5,4,2
+"MBI -5Now in the pandemic, I feel that working all day with students is a great effort and tire me more [-]","MBI -5Now in the pandemic, I feel that working all day with students is a great effort and tire me more [-]",,int64,438,0,0.0,5,3,0
+MBI -6I think I deal with my students' problems more effectively in remote teaching [-],MBI -6I think I deal with my students' problems more effectively in remote teaching [-],,float64,436,2,0.46,5,1.0,4.0
+MBI -7I feel that my work in remote teaching is wearing me down [-],MBI -7I feel that my work in remote teaching is wearing me down [-],,int64,438,0,0.0,5,3,0
+MBI -8I believe that with my work I am positively influencing the lives of my students [+],MBI -8I believe that with my work I am positively influencing the lives of my students [+],,int64,438,0,0.0,5,0,2
+MBI -9I've become more insensitive to people since I started teaching in the pandemic ,MBI -9I've become more insensitive to people since I started teaching in the pandemic ,,int64,438,0,0.0,5,3,0
+MBI -10I feel that working in remote education is hardening me emotionally [-],MBI -10I feel that working in remote education is hardening me emotionally [-],,float64,437,1,0.23,5,0.0,0.0
+MBI -11I feel very willing for my work in remote teaching [-],MBI -11I feel very willing for my work in remote teaching [-],,int64,438,0,0.0,5,1,4
+MBI -12I feel frustrated in my work in remote teaching [-],MBI -12I feel frustrated in my work in remote teaching [-],,float64,437,1,0.23,5,3.0,2.0
+MBI -13I feel like I'm working too the pandemic [-],MBI -13I feel like I'm working too the pandemic [-],,int64,438,0,0.0,5,4,2
+MBI -14I didn't worry about what happens to some students during the pandemic [-],MBI -14I didn't worry about what happens to some students during the pandemic [-],,int64,438,0,0.0,5,2,4
+MBI -15 I didn't worry about what happens to some students during the pandemic [-],MBI -15 I didn't worry about what happens to some students during the pandemic [-],,int64,438,0,0.0,5,3,0
+MBI -16 I feel that I can easily create a pleasant atmosphere with my students in remote teaching [-],MBI -16 I feel that I can easily create a pleasant atmosphere with my students in remote teaching [-],,int64,438,0,0.0,5,1,4
+MBI -17I feel motivated after working with my students even remotely [-],MBI -17I feel motivated after working with my students even remotely [-],,int64,438,0,0.0,5,2,4
+MBI -18 I believe I get many valuable things in my job as a teacher in the pandemic [-],MBI -18 I believe I get many valuable things in my job as a teacher in the pandemic [-],,float64,436,2,0.46,5,2.0,2.0
+"MBI -19In the pandemic, I feel at the limit of my possibilities at work [-]","MBI -19In the pandemic, I feel at the limit of my possibilities at work [-]",,int64,438,0,0.0,5,2,2
+MBI -20I think students blame me more for some of their problems in remote teaching than in the face-to-face [-],MBI -20I think students blame me more for some of their problems in remote teaching than in the face-to-face [-],,float64,435,3,0.68,5,0.0,0.0
+MBI_Total_Score,MBI_Total_Score,,int64,438,0,0.0,61,38,34
+Know_COVID_Cases,Know_COVID_Cases,,object,438,0,0.0,2,Yes,Yes
+Lost_Someone_COVID,Lost_Someone_COVID,,int64,438,0,0.0,2,1,2
+User_Type,User_Type,,object,438,0,0.0,1,Teacher,Teacher
+Dataset_Source,Dataset_Source,,object,438,0,0.0,1,Brazilian_Teacher_Burnout_COVID19,Brazilian_Teacher_Burnout_COVID19
+Age_Group,Age_Group,,object,438,0,0.0,6,55+,35-44
+Age_Numeric,Age_Numeric,,float64,432,6,1.37,47,56.0,40.0
+Gender_Standardized,Gender_Standardized,,object,438,0,0.0,2,Female,Female
